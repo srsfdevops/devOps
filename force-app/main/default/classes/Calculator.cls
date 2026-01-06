@@ -6,4 +6,6 @@ public with sharing class Calculator {
         return a + b;
     }
 
+    public Integer mul(){ return 0;}
+
 }
